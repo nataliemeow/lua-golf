@@ -26,7 +26,7 @@ while''do if (...) then (...) else (...) end end
 
 ### Put statements on one line
 
-Lua can parse multiple statements on one line without a semicolon, taking advantage of [omitting whitespace](#omit-whitespace). This can chop a character or two.
+Lua can parse multiple statements on one line without a semicolon. Taking advantage of [omitting whitespace](#omit-whitespace), this can chop a character or two.
 
 ```lua
 -- instead of:
